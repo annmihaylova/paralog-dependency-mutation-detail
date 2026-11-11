@@ -1,4 +1,4 @@
-# ARID1B-dependency
+# paralog-dependency-mutation-detail
 
 Analysis of DepMap Public 26Q3 data in R. I look at four known paralog pairs where cancer cell lines with a damaging mutation in gene A tend to depend on its paralog, gene B:
 
