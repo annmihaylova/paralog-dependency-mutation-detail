@@ -1,0 +1,17 @@
+from,to,comparison
+K_no_mutation,A_binary,K_no_mutation -> to
+K_no_mutation,B_category,K_no_mutation -> to
+A_binary,B_category,A_binary -> to
+B_category,C_plus_CN,B_category -> to
+C_plus_CN,D_full,C_plus_CN -> to
+B_category,E_target_expression,B_category -> to
+C_plus_CN,G_target_expression_CN,C_plus_CN -> to
+L_expression_only,E_target_expression,L_expression_only -> to
+E_target_expression,F_mutation_interaction,E_target_expression -> to
+G_target_expression_CN,H_mutation_interaction_CN,G_target_expression_CN -> to
+E_target_expression,N_expression_interaction,E_target_expression -> to
+G_target_expression_CN,O_expression_interaction_CN,G_target_expression_CN -> to
+A_binary,M_continuous_AF,A_binary -> to
+B_category,M_continuous_AF,B_category -> to
+G_target_expression_CN,I_compact_variant,G_target_expression_CN -> to
+E_target_expression,J_expression_ratio,E_target_expression -> to

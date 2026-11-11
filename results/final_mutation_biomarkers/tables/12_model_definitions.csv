@@ -1,0 +1,16 @@
+model,formula
+K_no_mutation,~expression_A + lineage_group
+A_binary,~binary + expression_A + lineage_group
+B_category,~status_factor + expression_A + lineage_group
+C_plus_CN,~status_factor + expression_A + copy_number_A + lineage_group
+D_full,~status_factor + expression_A + copy_number_A + max_vaf + n_lof +      n_truncating + n_splice + lineage_group
+L_expression_only,~expression_A + expression_B + lineage_group
+E_target_expression,~status_factor + expression_A + expression_B + lineage_group
+G_target_expression_CN,~status_factor + expression_A + expression_B + copy_number_A +      lineage_group
+F_mutation_interaction,~status_factor + expression_A + expression_B + binary:expression_B +      lineage_group
+H_mutation_interaction_CN,~status_factor + expression_A + expression_B + copy_number_A +      binary:expression_B + lineage_group
+N_expression_interaction,~status_factor + expression_A * expression_B + lineage_group
+O_expression_interaction_CN,~status_factor + expression_A * expression_B + copy_number_A +      lineage_group
+M_continuous_AF,~binary + sum_af + expression_A + lineage_group
+I_compact_variant,~status_factor + expression_A + expression_B + copy_number_A +      max_vaf + has_noncanonical_lof + lineage_group
+J_expression_ratio,~status_factor + ratio_AB + lineage_group

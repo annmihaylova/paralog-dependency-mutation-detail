@@ -1,0 +1,5 @@
+pair,n,n_0,n_1,n_2,excluded_status0_with_LoF,excluded_mutant_without_details,n_truncating_lines,n_splice_lines,source
+ARID1A -> ARID1B,1214,1075,71,68,0,0,135,4,raw_DepMap_26Q3
+SMARCA4 -> SMARCA2,1214,1152,20,42,0,0,43,11,raw_DepMap_26Q3
+STAG2 -> STAG1,1214,1185,14,15,0,0,19,10,raw_DepMap_26Q3
+CREBBP -> EP300,1214,1149,51,14,0,0,53,6,raw_DepMap_26Q3

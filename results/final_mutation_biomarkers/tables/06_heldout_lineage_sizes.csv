@@ -1,0 +1,89 @@
+pair,lineage,n,n_mutated
+ARID1A -> ARID1B,Biliary Tract,34,5
+ARID1A -> ARID1B,Bladder/Urinary Tract,33,8
+ARID1A -> ARID1B,Bone,49,0
+ARID1A -> ARID1B,Bowel,75,13
+ARID1A -> ARID1B,Breast,64,6
+ARID1A -> ARID1B,Cervix,18,1
+ARID1A -> ARID1B,CNS/Brain,110,4
+ARID1A -> ARID1B,Esophagus/Stomach,86,16
+ARID1A -> ARID1B,Head and Neck,58,1
+ARID1A -> ARID1B,Kidney,29,2
+ARID1A -> ARID1B,Liver,25,3
+ARID1A -> ARID1B,Lung,117,8
+ARID1A -> ARID1B,Lymphoid,85,8
+ARID1A -> ARID1B,Myeloid,40,1
+ARID1A -> ARID1B,Ovary/Fallopian Tube,55,14
+ARID1A -> ARID1B,Pancreas,67,16
+ARID1A -> ARID1B,Peripheral Nervous System,40,2
+ARID1A -> ARID1B,Pleura,20,0
+ARID1A -> ARID1B,Prostate,15,2
+ARID1A -> ARID1B,Skin,71,2
+ARID1A -> ARID1B,Soft Tissue,45,2
+ARID1A -> ARID1B,Uterus,37,22
+SMARCA4 -> SMARCA2,Biliary Tract,34,3
+SMARCA4 -> SMARCA2,Bladder/Urinary Tract,33,2
+SMARCA4 -> SMARCA2,Bone,49,0
+SMARCA4 -> SMARCA2,Bowel,75,3
+SMARCA4 -> SMARCA2,Breast,64,0
+SMARCA4 -> SMARCA2,Cervix,18,1
+SMARCA4 -> SMARCA2,CNS/Brain,110,3
+SMARCA4 -> SMARCA2,Esophagus/Stomach,86,1
+SMARCA4 -> SMARCA2,Head and Neck,58,0
+SMARCA4 -> SMARCA2,Kidney,29,0
+SMARCA4 -> SMARCA2,Liver,25,2
+SMARCA4 -> SMARCA2,Lung,117,25
+SMARCA4 -> SMARCA2,Lymphoid,85,3
+SMARCA4 -> SMARCA2,Myeloid,40,1
+SMARCA4 -> SMARCA2,Ovary/Fallopian Tube,55,7
+SMARCA4 -> SMARCA2,Pancreas,67,1
+SMARCA4 -> SMARCA2,Peripheral Nervous System,40,2
+SMARCA4 -> SMARCA2,Pleura,20,1
+SMARCA4 -> SMARCA2,Prostate,15,1
+SMARCA4 -> SMARCA2,Skin,71,0
+SMARCA4 -> SMARCA2,Soft Tissue,45,1
+SMARCA4 -> SMARCA2,Uterus,37,3
+STAG2 -> STAG1,Biliary Tract,34,0
+STAG2 -> STAG1,Bladder/Urinary Tract,33,3
+STAG2 -> STAG1,Bone,49,5
+STAG2 -> STAG1,Bowel,75,1
+STAG2 -> STAG1,Breast,64,0
+STAG2 -> STAG1,Cervix,18,1
+STAG2 -> STAG1,CNS/Brain,110,8
+STAG2 -> STAG1,Esophagus/Stomach,86,1
+STAG2 -> STAG1,Head and Neck,58,0
+STAG2 -> STAG1,Kidney,29,0
+STAG2 -> STAG1,Liver,25,1
+STAG2 -> STAG1,Lung,117,0
+STAG2 -> STAG1,Lymphoid,85,5
+STAG2 -> STAG1,Myeloid,40,2
+STAG2 -> STAG1,Ovary/Fallopian Tube,55,0
+STAG2 -> STAG1,Pancreas,67,0
+STAG2 -> STAG1,Peripheral Nervous System,40,0
+STAG2 -> STAG1,Pleura,20,0
+STAG2 -> STAG1,Prostate,15,0
+STAG2 -> STAG1,Skin,71,0
+STAG2 -> STAG1,Soft Tissue,45,0
+STAG2 -> STAG1,Uterus,37,2
+CREBBP -> EP300,Biliary Tract,34,0
+CREBBP -> EP300,Bladder/Urinary Tract,33,0
+CREBBP -> EP300,Bone,49,0
+CREBBP -> EP300,Bowel,75,9
+CREBBP -> EP300,Breast,64,3
+CREBBP -> EP300,Cervix,18,3
+CREBBP -> EP300,CNS/Brain,110,4
+CREBBP -> EP300,Esophagus/Stomach,86,4
+CREBBP -> EP300,Head and Neck,58,6
+CREBBP -> EP300,Kidney,29,0
+CREBBP -> EP300,Liver,25,1
+CREBBP -> EP300,Lung,117,3
+CREBBP -> EP300,Lymphoid,85,10
+CREBBP -> EP300,Myeloid,40,3
+CREBBP -> EP300,Ovary/Fallopian Tube,55,6
+CREBBP -> EP300,Pancreas,67,1
+CREBBP -> EP300,Peripheral Nervous System,40,1
+CREBBP -> EP300,Pleura,20,0
+CREBBP -> EP300,Prostate,15,1
+CREBBP -> EP300,Skin,71,1
+CREBBP -> EP300,Soft Tissue,45,1
+CREBBP -> EP300,Uterus,37,5

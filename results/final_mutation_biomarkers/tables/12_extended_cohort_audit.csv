@@ -1,0 +1,5 @@
+pair,n,n_mutated,n_patients,excluded_vs_step01
+ARID1A -> ARID1B,1214,139,1171,0
+SMARCA4 -> SMARCA2,1214,62,1171,0
+STAG2 -> STAG1,1214,29,1171,0
+CREBBP -> EP300,1214,65,1171,0

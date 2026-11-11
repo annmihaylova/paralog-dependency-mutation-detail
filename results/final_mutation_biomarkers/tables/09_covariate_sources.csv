@@ -1,0 +1,7 @@
+source,file,available,models_with_several_default_rows
+Model,Model.csv,TRUE,0
+DamagingMatrix,OmicsSomaticMutationsMatrixDamaging.csv,TRUE,0
+Expression,OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv,TRUE,0
+CopyNumber,OmicsCNGeneWGS.csv,TRUE,0
+OmicsGlobalSignatures,OmicsGlobalSignatures.csv,TRUE,102
+CRISPRConfounders,CRISPRConfounders.csv,TRUE,0

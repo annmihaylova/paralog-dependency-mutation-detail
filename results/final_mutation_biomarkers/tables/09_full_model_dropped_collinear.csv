@@ -1,0 +1,5 @@
+pair,dropped,kept,spearman_rho
+ARID1A -> ARID1B,organoid,growth_3d,0.838595410329635
+SMARCA4 -> SMARCA2,organoid,growth_3d,0.838595410329635
+STAG2 -> STAG1,organoid,growth_3d,0.838595410329635
+CREBBP -> EP300,organoid,growth_3d,0.838595410329635
