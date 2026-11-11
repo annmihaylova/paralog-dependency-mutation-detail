@@ -1,4 +1,4 @@
-# paralog-dependency-mutation-detail
+# Mutation annotation beyond binary status and paralog dependency in DepMap
 
 Analysis of DepMap Public 26Q3 data in R. I look at four known paralog pairs where cancer cell lines with a damaging mutation in gene A tend to depend on its paralog, gene B:
 
